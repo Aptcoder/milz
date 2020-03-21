@@ -1,7 +1,0 @@
-Full name : Omilo Samuel
-Email : omilosamuel@gmail.com
-Slack Username : milz
-Track : Backend track
-Courses : Node js, js
-
-
